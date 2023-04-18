@@ -1,0 +1,17 @@
+{
+  "environment": "prod",
+  "projectName": "HRIS",
+  "glueCode": "com.qa.hris",
+  "feature": "src/main/resources/features/Onboarding.feature",
+  "emailReport": "n",
+  "emailTO": "krishan.pandey@geminisolutions.com",
+  "reportName": "HRISTestReport",
+  "gemjarSubID": "test_id",
+  "gemjarUserName": "krishan.pandey",
+  "gemjarToken": "9731e1dc-099a-42d6-b56b-62387e7f308f1677499344027",
+  "jewelEntryUrl": "https://apis.gemecosystem.com/enter-point",
+  "prod": {
+    "browserName": "chrome",
+    "browserTimeout": 300
+  }
+}
